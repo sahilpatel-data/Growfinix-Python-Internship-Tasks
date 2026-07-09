@@ -1,0 +1,19 @@
+===== CLEANED TOUR ENQUIRY SUMMARY =====
+
+Enquiry 1
+Name       : Rahul Sharma
+Email      : rahul.sharma@gmail.com
+Destination: Goa
+--------------------------------------------------
+
+Enquiry 2
+Name       : Priya Mehta
+Email      : priya.mehta22@gmail.com
+Destination: Manali
+--------------------------------------------------
+
+Enquiry 3
+Name       : Arjun Verma
+Email      : arjunv@email.com
+Destination: Kashmir
+--------------------------------------------------
