@@ -1,0 +1,25 @@
+IPL DATA ANALYSIS REPORT
+==================================================
+
+1. OVERALL TEAM PERFORMANCE
+--------------------------------------------------
+Top team by win rate: Chennai Super Kings (60.31% win rate, 79.0 wins in 131.0 matches)
+
+Top 3 teams by win rate:
+- Chennai Super Kings: 60.31% win rate, 79.0 wins in 131.0 matches
+- Mumbai Indians: 57.14% win rate, 80.0 wins in 140.0 matches
+- Gujarat Lions: 56.25% win rate, 9.0 wins in 16.0 matches
+
+2. KKR SEASON-WISE PERFORMANCE
+--------------------------------------------------
+Best KKR season: 2012 with 70.59% win rate
+Worst KKR season: 2009 with 23.08% win rate
+Total KKR matches in dataset: 132
+Total KKR wins in dataset: 68
+
+3. KKR TOSS DECISION ANALYSIS
+--------------------------------------------------
+When KKR chose to bat: 15.0 wins out of 30.0 matches (50.0% win rate)
+When KKR chose to field: 23.0 wins out of 39.0 matches (58.97% win rate)
+
+Better toss decision for KKR based on this dataset: field (58.97% win rate)
