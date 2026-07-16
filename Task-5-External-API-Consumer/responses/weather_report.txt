@@ -1,0 +1,21 @@
+
+========================================
+        WEATHER REPORT
+========================================
+
+City            : Delhi
+
+Latitude        : 28.65195
+Longitude       : 77.23149
+
+Temperature     : 38.3 °C
+
+Wind Speed      : 12.6 km/h
+
+Condition       : Mainly Clear
+
+Weather Code    : 1
+
+========================================
+Generated Successfully
+========================================
